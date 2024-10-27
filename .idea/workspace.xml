@@ -1,46 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment=" added db">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/shop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/home/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/product/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shop" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sarizeybekk"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ec84e6f9-ebfb-403a-8216-8d978f4441fe" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sarizeybekk/deneme.git",
+    "accountId": "ec84e6f9-ebfb-403a-8216-8d978f4441fe"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/shop/home/views.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2o0hQ5iVzNGFdPUU8oZ4In4AzQs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.djangoProject1.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sulta\PycharmProjects\Django\djangoProject1\shop" />
+      <recent name="C:\Users\Sulta\PycharmProjects\Django\djangoProject1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="djangoProject1" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject1" />
@@ -84,11 +124,104 @@
       <option name="presentableId" value="Default" />
       <updated>1730012381853</updated>
       <workItem from="1730012383480" duration="109000" />
-      <workItem from="1730012774910" duration="1000" />
+      <workItem from="1730012774910" duration="3589000" />
+      <workItem from="1730017702964" duration="8547000" />
     </task>
+    <task id="LOCAL-00001" summary="added admin">
+      <option name="closed" value="true" />
+      <created>1730025789878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730025789878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added gitignore">
+      <option name="closed" value="true" />
+      <created>1730026062467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730026062467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added gitignore">
+      <option name="closed" value="true" />
+      <created>1730026716103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730026716103</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" added view home">
+      <option name="closed" value="true" />
+      <created>1730027335795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730027335795</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" added url product">
+      <option name="closed" value="true" />
+      <created>1730028900610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730028900610</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" added product view">
+      <option name="closed" value="true" />
+      <created>1730029654073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730029654073</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" added product url">
+      <option name="closed" value="true" />
+      <created>1730029668146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730029668146</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" added db">
+      <option name="closed" value="true" />
+      <created>1730029676575</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730029676575</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added admin" />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value=" added view home" />
+    <MESSAGE value=" added url product" />
+    <MESSAGE value=" added product view" />
+    <MESSAGE value=" added product url" />
+    <MESSAGE value=" added db" />
+    <option name="LAST_COMMIT_MESSAGE" value=" added db" />
   </component>
 </project>
