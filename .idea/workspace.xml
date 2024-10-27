@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin url" />
+    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin url">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/shop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/home/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/product/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +125,7 @@
       <updated>1730012381853</updated>
       <workItem from="1730012383480" duration="109000" />
       <workItem from="1730012774910" duration="3589000" />
-      <workItem from="1730017702964" duration="8868000" />
+      <workItem from="1730017702964" duration="13421000" />
     </task>
     <task id="LOCAL-00001" summary="added admin">
       <option name="closed" value="true" />
