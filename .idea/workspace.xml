@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin url">
+    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/shop/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/home/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/product/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,7 @@
       <updated>1730012381853</updated>
       <workItem from="1730012383480" duration="109000" />
       <workItem from="1730012774910" duration="3589000" />
-      <workItem from="1730017702964" duration="13421000" />
+      <workItem from="1730017702964" duration="15120000" />
     </task>
     <task id="LOCAL-00001" summary="added admin">
       <option name="closed" value="true" />
@@ -199,7 +199,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730030679681</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added product migrations">
+      <option name="closed" value="true" />
+      <created>1730036359384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730036359384</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added product migrations">
+      <option name="closed" value="true" />
+      <created>1730036365052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730036365052</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added requirements.txt">
+      <option name="closed" value="true" />
+      <created>1730036397130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730036397130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added admin">
+      <option name="closed" value="true" />
+      <created>1730036430721</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730036430721</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +255,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added admin" />
     <MESSAGE value="added gitignore" />
     <MESSAGE value=" added view home" />
     <MESSAGE value=" added url product" />
@@ -231,6 +262,9 @@
     <MESSAGE value=" added product url" />
     <MESSAGE value=" added db" />
     <MESSAGE value="added admin url" />
-    <option name="LAST_COMMIT_MESSAGE" value="added admin url" />
+    <MESSAGE value="added product migrations" />
+    <MESSAGE value="added requirements.txt" />
+    <MESSAGE value="added admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="added admin" />
   </component>
 </project>
