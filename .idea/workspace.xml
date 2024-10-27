@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment=" added db">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/shop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/product/admin.py" afterDir="false" />
-    </list>
+    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin url" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +119,7 @@
       <updated>1730012381853</updated>
       <workItem from="1730012383480" duration="109000" />
       <workItem from="1730012774910" duration="3589000" />
-      <workItem from="1730017702964" duration="8547000" />
+      <workItem from="1730017702964" duration="8868000" />
     </task>
     <task id="LOCAL-00001" summary="added admin">
       <option name="closed" value="true" />
@@ -191,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730029676575</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added admin url">
+      <option name="closed" value="true" />
+      <created>1730030679681</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730030679681</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +224,7 @@
     <MESSAGE value=" added product view" />
     <MESSAGE value=" added product url" />
     <MESSAGE value=" added db" />
-    <option name="LAST_COMMIT_MESSAGE" value=" added db" />
+    <MESSAGE value="added admin url" />
+    <option name="LAST_COMMIT_MESSAGE" value="added admin url" />
   </component>
 </project>
