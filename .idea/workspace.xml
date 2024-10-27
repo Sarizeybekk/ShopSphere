@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added admin">
+    <list default="true" id="7d86120b-66d2-4ff9-9afd-1f6eb72c553f" name="Changes" comment="added image procces">
+      <change afterPath="$PROJECT_DIR$/shop/order/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/order/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/shop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/product/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -125,7 +125,7 @@
       <updated>1730012381853</updated>
       <workItem from="1730012383480" duration="109000" />
       <workItem from="1730012774910" duration="3589000" />
-      <workItem from="1730017702964" duration="15120000" />
+      <workItem from="1730017702964" duration="16164000" />
     </task>
     <task id="LOCAL-00001" summary="added admin">
       <option name="closed" value="true" />
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730036430721</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added image procces">
+      <option name="closed" value="true" />
+      <created>1730037767150</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730037767150</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +273,7 @@
     <MESSAGE value="added product migrations" />
     <MESSAGE value="added requirements.txt" />
     <MESSAGE value="added admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="added admin" />
+    <MESSAGE value="added image procces" />
+    <option name="LAST_COMMIT_MESSAGE" value="added image procces" />
   </component>
 </project>
